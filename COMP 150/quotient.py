@@ -1,0 +1,5 @@
+first = input("first number: ")
+second = input("second number: ")
+quotient = int(first) // int(second)
+remainder = int(first) % int(second)
+print("the quotient of", first, "and", second, "is", quotient, "with a remainder of", remainder)
