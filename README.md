@@ -1,1 +1,1 @@
-This repository just serves as an archive for my schoolwork.
+This repository serves as an archive for my schoolwork.
